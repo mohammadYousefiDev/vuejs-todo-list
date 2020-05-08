@@ -1,4 +1,4 @@
-<h2>beatigull todo list with vuejs</h2>
+<h2>beatifull todo list with vuejs</h2>
 
 <a href="https://maniyousefidev.github.io/vuejs-todo-list/" target="_blank">Online Demo</a>
 
